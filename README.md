@@ -1,5 +1,5 @@
 # search-index-service-worker
-Example library. Plain JavaScript attempt on running search-index through a service worker. As a PWA. Offline first. Search-index as backend, service worker as the middleware.
+Plain JavaScript attempt on running search-index through a service worker. As a PWA. Search-index as backend, service worker as the middleware. Easy access through fetch(./?[search-index-function]={data object)-endpoints
 
 ## Use
 
