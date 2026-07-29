@@ -4,5 +4,6 @@ Plain JavaScript attempt on running search-index through a service worker. As a 
 ## Use
 
 * Add as dependency
-* `import { sidx-sw } from 'sidx.sw'`
+* `import { SearchIndex } from 'search-index'`
+* `import { sidxsw } from 'sidx-sw'`
 * Set up listening for fetch(./?)-events
