@@ -6,5 +6,5 @@ BrOwser seaRCH - Trying to be the browser version of [Norch](https://github.com/
 
 * Add as dependency (
 * `import { SearchIndex } from 'search-index'`
-* `import { brorch } from 'brorch'`
+* `import { borch } from 'borch'`
 * Set up listening for fetch(./?)-events
