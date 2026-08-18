@@ -1,6 +1,6 @@
-# Borch
+# search-worker-server
 
-BrOwser seaRCH - Trying to be the browser version of [Norch](https://github.com/fergiemcdowall/norch/). Plain JavaScript attempt on running search-index through a service worker. As a PWA. Search-index as backend, service worker as the middleware. Easy access through `fetch(./?[search-index-function]={data object})`-endpoints.
+Trying to be the browser version of [Norch](https://github.com/fergiemcdowall/norch/). Plain JavaScript attempt on running search-index through a service worker. As a PWA. Search-index as backend, service worker as the middleware. Easy access through `fetch(./?[search-index-function]={data object})`-endpoints.
 
 ## Use
 
